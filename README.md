@@ -13,5 +13,11 @@ This is a PoC re-edited, from the original one made by Embedi, to generate singl
 python 2017-11882_Generator.py -x command_to_execute -o output_file_name
 
 
-WE ARE NOT RESPONSIBLE OF ANY DAMAGES CAUSED BY THE USE OF THIS SOFTWARE. 
-IT WAS MADE FOR EDUCATIONAL PURPOSE AND TESTING ONLY!!!
+WE ARE NOT RESPONSIBLE OF ANY DAMAGES CAUSED BY THE USE OF THIS SOFTWARE. IT WAS MADE FOR EDUCATIONAL PURPOSE AND TESTING ONLY!!!
+---------------------
+
+
+![alt text](http://www.blackmath.it/img/wk3gpo.png)
+
+www.blackmath.it | info@blackmath.it
+
