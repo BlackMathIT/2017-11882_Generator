@@ -10,8 +10,8 @@ This is a PoC re-edited, from the original one made by Embedi, to generate singl
 
 ## Usage
 
-```python 2017-11882_Generator.py -x command_to_execute -o output_file_name
-```
+python 2017-11882_Generator.py -x command_to_execute -o output_file_name
+
 
 WE ARE NOT RESPONSIBLE OF ANY DAMAGES CAUSED BY THE USE OF THIS SOFTWARE. 
 IT WAS MADE FOR EDUCATIONAL PURPOSE AND TESTING ONLY!!!
