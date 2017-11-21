@@ -17,7 +17,5 @@ WE ARE NOT RESPONSIBLE OF ANY DAMAGES CAUSED BY THE USE OF THIS SOFTWARE. IT WAS
 ---------------------
 
 
-![alt text](http://www.blackmath.it/img/wk3gpo.png)
-
 www.blackmath.it | info@blackmath.it
 
